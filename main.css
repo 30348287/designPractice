@@ -1,0 +1,179 @@
+
+
+.navbar{ background: rgb(126, 30, 216);}
+
+.nav-link, .navbar-brand{color: #f4f4f4; cursor: pointer;}
+.nav-link{margin-right: 1em !important;}
+.nav-link:hover{background:#f4f4f4; color: rgb(126, 30, 216); }
+.navbar-collapse{justify-content: flex-end;}
+.navbar-toggler{background: #fff !important;}
+
+.bg-dark{
+    background-color:#343a40!important
+    }
+    .bg-primary{
+    background-color:#007bff!important
+    }
+
+
+    .header{
+        text-align:center;
+        padding-top:5em;
+        opacity: 0.5;
+        width:100%;
+       
+        
+        
+       }
+       .
+
+
+       .description{
+        position: relative;
+        top: 30%;
+        margin: auto;
+        padding: 2em;
+        width:100%;
+        
+    }
+    .description h1{
+     color:rgb(126, 30, 216) ;
+    }
+    .description p{
+     color:black;
+     font-size: 20px;
+     width: 50%;
+     line-height: 1.5;
+    }
+    .description button{
+     border:1px  solid rgb(126, 30, 216);
+     background:rgb(126, 30, 216);
+     color:#fff;
+    }
+
+
+
+.row{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+}
+.row h1{
+ color:rgb(126, 30, 216);
+ margin: 2em;
+}
+.row {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+
+}
+.row span{
+ display: block;
+ color: #888;
+ position: relative;
+ left: 115px;
+}
+.row .desc{
+ padding: 2em;
+ border-left:4px solid #10828C;
+}
+.row .desc h3{
+ color: #10828C;
+}
+.row .desc p{
+ line-height:2;
+ color:#888;
+}
+
+/*Portfolio*/
+.portfolio{
+    margin: 4em 0;
+       position: relative; 
+   }
+   .portfolio h1{
+    color:rgb(126, 30, 216);
+    margin: 2em; 
+   }
+   .portfolio img{
+     border-radius: 8px;
+     
+   }
+
+   .blog{
+    margin: 4em 0;
+    position: relative; 
+   }
+   .blog h1{
+    color:rgb(126, 30, 216);
+    margin: 2em; 
+   }
+   .blog .card{
+    box-shadow: 0 0 20px #ccc;
+   }
+   .blog .card img{
+    width: 100%;
+    height: 12em;
+   }
+   .blog .card-title{
+    color:rgb(126, 30, 216);
+     
+   }
+   .blog .card-body{
+    padding: 1em;
+   }
+
+
+   .team{
+    margin: 4em 0;
+    position: relative;  
+    height: :5em;
+   }
+   .team h1{
+    color:rgb(126, 30, 216);
+    margin: 2em; 
+   }
+   .team .item{
+    position: relative;
+
+
+   }
+   .team .des{
+    background: rgb(126, 30, 216);
+    color: #fff;
+    text-align: center;
+    border-bottom-left-radius: 93%;
+    transition:.3s ease-in-out;
+   }
+
+
+   /* slider css */
+
+   .carousel slide{
+       height: 20px;
+   }
+
+
+
+   /*  about section page */
+
+   .new{
+       background-image: url(images/img.jpg);
+   }
+
+
+
+
+
+
+
+   /* contact us */
+
+   .help{
+    background-image: url(images/img2.jpg);
+    position:center;}
+
+
+   
